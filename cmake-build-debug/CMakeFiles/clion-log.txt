@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\opengl\ClionCode\improveOpenGL\01_improveDepth -B D:\opengl\ClionCode\improveOpenGL\01_improveDepth\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/opengl/ClionCode/improveOpenGL/01_improveDepth/cmake-build-debug

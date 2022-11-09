@@ -1,0 +1,4 @@
+# ninja log v5
+10	866	6896791888004147	CMakeFiles/improveOpenGL.dir/src/glad.c.obj	a593713c61fb94c5
+1	1318	6896791892500878	CMakeFiles/improveOpenGL.dir/main.cpp.obj	7287ca37d6496e71
+1319	1491	6896791894191125	improveOpenGL.exe	74e02f7253680958

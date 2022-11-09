@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\improveOpenGL.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\improveOpenGL.dir/objects.a @CMakeFiles\improveOpenGL.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\improveOpenGL.dir/objects.a -Wl,--no-whole-archive -o improveOpenGL.exe -Wl,--out-implib,libimproveOpenGL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\improveOpenGL.dir\linklibs.rsp
